@@ -1,1 +1,13 @@
-
+{
+    "owner": {
+        "username": "danielsandarcerapulircera"
+    },
+    "records": {
+        "MX": [
+            "mikething.is-a.dev"
+        ],
+        "A": [
+            "77.230.2.100"
+        ]
+    }
+}
